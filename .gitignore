@@ -1,0 +1,7 @@
+*.py[cod]
+trash
+.idea
+.tags
+*.swp
+
+
